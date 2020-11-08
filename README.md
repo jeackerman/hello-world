@@ -1,2 +1,3 @@
 # hello-world
 Hello World learning repo
+Dear Diary: Today was an OK day. Took Ruby for a walk, she met a dog named Luna, a shepperd mix, owned by a French couple. It was nice to talk to them a bit. I got to go to Starbucks and the coffee person helped me order on the app. Mainly I wanted to know "how much money" I had on the app. You don't see that until you checkout. They need a "Load more bucks" button. Other than that, came home, picked up Ruby's artwork that she had left all over the yard this week. Pulled some weeds. Fixed up the front door. Tried to fix my sprinkler system, but Lowes and Home Depot did not have the right parts :-(. Came home, ate stuff. And cleaned up front door hardware. Watched some TV. Good to see 1/2 nation excited about Biden win. 
